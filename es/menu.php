@@ -39,9 +39,9 @@
           <hr />
         </span>
         <ul>
-          <li class="menu_second_item"><a href="../en/index.php">English</a></li>
-          <li class="menu_third_item"><a href="../index.php">Français</a></li>
-          <li class="menu_fourth_item"><a href="../es/index.php"   class="languageActive">Español</a></li>
+          <li class="menu_second_item"><a href="../en/menu.php">English</a></li>
+          <li class="menu_third_item"><a href="../menu.php">Français</a></li>
+          <li class="menu_fourth_item"><a href="../es/menu.php"   class="languageActive">Español</a></li>
         </ul>
       </div>
     </div>
