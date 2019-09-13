@@ -6,4 +6,5 @@ Don't forget to link the CSS file to.
 
 Then, you should be able to include the menu using this:
 
-<?php include index.php ?>
+\<?php include menu.php ?>
+
