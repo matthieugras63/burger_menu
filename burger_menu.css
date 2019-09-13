@@ -171,13 +171,14 @@ hr {
 
 #menu_open>div:first-child>div>ul>li{
     list-style: none;
-    font-size: 70px;
+    font-size: 7vh;
     padding-top: 30px;
     font-weight: bold;
+
 }
 
 #menu_open>div:first-child>div>ul{
-    padding:0;
+    padding: 100px 0px 0px 0px;
 }
 
 #menu_open>div:first-child>div{
