@@ -8,3 +8,4 @@ Then, you should be able to include the menu using this:
 
 \<?php include menu.php ?>
 
+By the way, language detected is "hack" however; those files are only HTML files with a .php extension to include them in other projects
